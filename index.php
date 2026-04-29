@@ -1,0 +1,1 @@
+<?php echo "im nisma and im checkinh my theme is working"; ?>
